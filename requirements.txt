@@ -1,0 +1,3 @@
+ipykernel       #para poder utilizar jupyter
+matplotlib
+seaborn
